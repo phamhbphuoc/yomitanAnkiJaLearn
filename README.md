@@ -113,6 +113,18 @@ In the `Yomitan` Note Type, create the following card templates
   text-align: left;
 }
 
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  border: 1px solid black;
+  text-align: center; /* Center-align text */
+  padding: 15px; /* Increase padding inside cells */
+}
+
+
 ```
 
 #### English Front - Japanese Back
