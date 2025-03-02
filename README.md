@@ -165,27 +165,27 @@ In the `Yomitan` Note Type, create the following card templates
 
 ### YOMICHAN ANKI SETTINGS
 #### Terms
-- Deck: Choose which deck to save new card to
-- Model: Choose `Yomitan` Note Type
+- `Deck`: Choose which deck to save new card to
+- `Model`: Choose `Yomitan` Note Type
 - Fields:
--   Front: {expression}
--   Back: {glossary-brief}
--   Add Reverse: Don't add anything
--   Sentence: {cloze-prefix}({cloze-body}){cloze-suffix}
--   Sentence No word: {cloze-prefix}（・・・）{cloze-suffix}
--   Reading: {furigana}
--   Extra: Don't add anything
+-   `Front`: `{expression}`
+-   `Back`: `{glossary-brief}`
+-   `Add Reverse`: Don't add anything
+-   `Sentence`: `{cloze-prefix}({cloze-body}){cloze-suffix}`
+-   `Sentence No word`: `{cloze-prefix}（・・・）{cloze-suffix}`
+-   `Reading`: `{furigana}`
+-   `Extra`: Don't add anything
 #### Kanji
-- Deck: Choose which deck to save new card to
-- Model: Choose `Yomitan` Note Type
+- `Deck`: Choose which deck to save new card to
+- `Model`: Choose `Yomitan` Note Type
 - Fields:
--   Front: {character}
--   Back: {onyomi}<br>{kunyomi}<br><br>{glossary-brief}
--   Add Reverse: Don't add anything
--   Sentence: {cloze-prefix}({cloze-body}){cloze-suffix}
--   Sentence No word: {cloze-prefix}（・・・）{cloze-suffix}
--   Reading: {character}
--   Extra: Don't add anything
+-   `Front`: `{character}`
+-   `Back`: `{onyomi}<br>{kunyomi}<br><br>{glossary-brief}`
+-   `Add Reverse`: Don't add anything
+-   `Sentence`: `{cloze-prefix}({cloze-body}){cloze-suffix}`
+-   `Sentence No word`: `{cloze-prefix}（・・・）{cloze-suffix}`
+-   `Reading`: `{character}`
+-   `Extra`: Don't add anything
 
 
 ## Reference
