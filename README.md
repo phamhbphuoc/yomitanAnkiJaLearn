@@ -21,7 +21,7 @@ In the `Yomitan` Note Type, set up fields with following name, and formats
 2. Back - Size: 12 - Arial or anything you like
 3. Add Reverse - No change
 4. Sentence - Size: 14 - Japanese font
-5. Sentence No Word - Size: 14 - Japanese font
+5. Sentence No word - Size: 14 - Japanese font
 6. Reading - Size 18 - Japanese font
 7. Extra - No change
 ```
@@ -163,6 +163,75 @@ td {
 <div style='font-family: BIZ UDGothic; font-size: 24px;'>{{edit:Extra}}</div>
 
 </div>
+```
+
+##### (Bonus) Styling for Basic Note type
+```
+* { 
+  text-align: center;
+}
+
+.card {
+  font-family: arial;
+
+  font-size: 20px;
+
+  text-align: center;
+
+  color: #ffffff;
+
+  background-color: #2d2d2d;
+
+}
+
+.frontbg {
+  background-color: #18adab;
+
+  padding: 15px;
+
+  border-radius: 7px;
+
+  color: #fff;
+
+  position: relative;
+
+  left: 0;
+}
+
+.backbg {
+  position: relative;
+
+  top: -6px;
+
+  background-color: #fff;
+
+  padding: 15px;
+
+  padding-bottom: 15px;
+
+  padding-left: 30px;
+
+  padding-right: 30px;
+
+  border-radius: 0px 0px 10px 10px;
+
+  color: #016ea6;
+
+  font-size: 24px;
+
+  text-align: left;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td {
+  border: 1px solid black;
+  text-align: center; /* Center-align text */
+  padding: 15px; /* Increase padding inside cells */
+}
 ```
 
 
