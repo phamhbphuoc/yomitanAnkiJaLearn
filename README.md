@@ -268,6 +268,11 @@ td {
 -   `Reading`: `{character}`
 -   `Extra`: Don't add anything
 
+## (Bonus) Anki decks
+### N3
+- [1800 JLPT N3 Tango - Vietnamese](https://ankiweb.net/shared/info/2018598943)
+- [Tổng hợp ngữ pháp JLPT N3](https://ankiweb.net/shared/info/1218068961)
+- [Hán tự thường dùng - Mazii](https://ankiweb.net/shared/info/1589523564)
 
 ## Reference
 - Huge credit goes to [ToKiniAndy blog post](https://www.tokiniandy.com/blog/using-yomichan-to-learn-japanese)
